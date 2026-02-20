@@ -8,7 +8,20 @@ This project is an AI-based medical web application that detects and classifies 
 The goal of this project is to assist in early detection of Diabetic Retinopathy and reduce the risk of vision loss using Artificial Intelligence.
 
 ---
+# 👥 Team Details
 
+**Team ID:** LTVIP2026TMIDS81330
+
+**Team Size:** 4 Members
+
+### 👩‍💻 Team Members
+
+* **Gummadi Praveen Roy**
+* **Dandu Vyshnavi**
+* **Seemala Sai Kumar**
+* **Mogilapalapu Veera Ravindra Babu**
+
+---
 # 📂 Project Files Overview
 
 ### 1. app.py
@@ -141,3 +154,4 @@ The project documentation is divided into **7 phases** to explain the complete d
 * CSS
 * JavaScript
 * IBM Cloudant Database
+
